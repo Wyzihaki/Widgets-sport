@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+z
+
+.swiper-slide {
+    display: flex !important;
+    align-items: center!important;
+    justify-content: center!important;
+}
+
+.swiper-button-prev {
+    left: 0!important;
+}
+
+.swiper-button-next {
+    right: 0!important;
+}
+
+
+

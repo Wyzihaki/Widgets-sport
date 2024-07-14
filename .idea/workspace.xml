@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de1ad31e-b460-4d32-86bb-1b25450794bb" name="Changes" comment="api + schedule handles">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/_components/Cabinet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/_components/Cabinet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/_components/ClassInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/_components/ClassInfo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/_components/gallery/Gallery.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/_components/gallery/Gallery.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/class/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/class/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/funcs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/funcs.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2h0EqkQB4bBgsuW8xb52k6Dddzl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\matwe\\Desktop\\widget-sport\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matwe\Desktop\widget-sport" />
+      <recent name="C:\Users\matwe\Desktop\widget-sport\src" />
+      <recent name="C:\Users\matwe\Desktop\widget-sport\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build-loader" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-loader" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build-loader" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de1ad31e-b460-4d32-86bb-1b25450794bb" name="Changes" comment="" />
+      <created>1716722789017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716722789017</updated>
+      <workItem from="1716722793118" duration="10261000" />
+      <workItem from="1717327648913" duration="29960000" />
+      <workItem from="1717410568120" duration="7087000" />
+      <workItem from="1717774425765" duration="7376000" />
+    </task>
+    <task id="LOCAL-00001" summary="init &amp; loader/conf">
+      <created>1716752561594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716752561594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="loader func">
+      <created>1717335859289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717335859289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="api + schedule handles">
+      <created>1717423909930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717423909930</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init &amp; loader/conf" />
+    <MESSAGE value="loader func" />
+    <MESSAGE value="api + schedule handles" />
+    <option name="LAST_COMMIT_MESSAGE" value="api + schedule handles" />
+  </component>
+</project>
